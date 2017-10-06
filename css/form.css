@@ -1,0 +1,47 @@
+.a_link {
+    margin-right: 15px;
+    background: blue;
+    padding: 10px 20px 10px 20px;
+    color: blanchedalmond;
+    font-size: 20px;
+}
+.a_link:hover {
+    background: blanchedalmond;
+    padding: 10px 20px 10px 20px;
+    color: blue;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+.dktk{
+   
+    color:yellow;
+    font-weight:bold;
+}
+.dktk:hover{
+    color: blue;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+.dk-chieusinh{
+    text-align:center;
+    background:#74A8DC;   
+    font-size:20px;
+    border: 1px solid #CCC;
+    color: yellow;
+    background-color: #F25086;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.dk-chieusinh:hover{
+    background:#0004FF;
+    color:white;
+    border: 1px solid #CCC;
+}
+.error{
+    color: #D8000C;
+    background-color: #FFBABA;
+    float: right;   
+}
